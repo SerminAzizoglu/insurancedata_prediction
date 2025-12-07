@@ -1,0 +1,2 @@
+# insurancedata_prediction
+This project focuses on predicting annual medical insurance charges based on demographic and lifestyle attributes of individuals. Using the insurance.csv dataset, several regression algorithms were applied and compared to determine which model performs best for estimating medical costs.The notebook includes data exploration, preprocessing, model training, evaluation, and hyperparameter considerations.
